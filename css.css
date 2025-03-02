@@ -1,0 +1,64 @@
+.root{
+    margin: 100px;
+    gap: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-width: 5px;
+
+}
+.first{
+    text-align: center;
+    /* border: 1px solid black; */
+    font-family: Helvetica;
+}
+.second{
+    text-align: center;
+    font-family: Helvetica;
+           
+   
+}
+.third{
+    text-align: center;
+    /* margin-top: 100px; */
+    font-family: Helvetica;
+}
+.fourth{
+    text-align: center;
+    /* margin-top: 100px; */
+    font-family: Helvetica;
+}
+.fifth{
+    text-align: center;
+    margin-top: 10px;
+    font-family: Helvetica;
+}
+.sixth{
+    text-align: center;
+    margin-top: 10px;
+    font-family: Helvetica;
+}
+.inputclass{
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc;
+     margin-bottom: 10px;
+}
+button{
+   
+    position: relative;
+  padding: 13px 35px;
+  background: #0ebc37;
+  font-size: 17px;
+  font-weight: 900;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px #18181869, inset 2px 2px 10px #ffffffb0;
+  transition: all .3s ease-in-out;
+  
+    
+}
+button:hover {
+    padding: 13px 25px;
+    border-radius: 8px 8px 24px 24px;
+  }
